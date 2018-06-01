@@ -1,3 +1,3 @@
-/* Copyright 2016 KualiCo */
+/* Copyright 2016 OpenSource */
 
 This is my second file. A new one
