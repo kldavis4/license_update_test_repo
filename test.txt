@@ -1,4 +1,4 @@
-/* Copyright 2017 KualiCo */
+/* Copyright 2017 OpenSource */
 
 1
 2
